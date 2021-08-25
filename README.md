@@ -1,2 +1,2 @@
 # password_generator
-A python terminal generator program  aaaa aaaa
+A python terminal generator program  aaaa aaaa aaaa
